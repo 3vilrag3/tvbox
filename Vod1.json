@@ -166,17 +166,6 @@
       "timeout":10
     },
     {
-      "key":"虎牙资源",
-      "name":"虎牙资源",
-      "type":1,
-      "api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":10
-    },
-    {
       "key":"极速资源",
       "name":"极速资源",
       "type":1,
