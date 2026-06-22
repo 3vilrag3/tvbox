@@ -169,7 +169,7 @@
       "key":"虎牙资源",
       "name":"虎牙资源",
       "type":1,
-      "api":"https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
